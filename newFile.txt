@@ -1,0 +1,199 @@
+
+Host Name:                 GDNNB373
+OS Name:                   Microsoft Windows 8.1 Pro
+OS Version:                6.3.9600 N/A Build 9600
+OS Manufacturer:           Microsoft Corporation
+OS Configuration:          Member Workstation
+OS Build Type:             Multiprocessor Free
+Registered Owner:          a531296
+Registered Organization:   GDNVNT40
+Product ID:                00261-80022-42768-AA400
+Original Install Date:     2015-04-08, 15:55:11
+System Boot Time:          2015-08-19, 07:37:53
+System Manufacturer:       Dell Inc.
+System Model:              Latitude E5440
+System Type:               x64-based PC
+Processor(s):              1 Processor(s) Installed.
+                           [01]: Intel64 Family 6 Model 69 Stepping 1 GenuineIntel ~1200 Mhz
+BIOS Version:              Dell Inc. A10, 2014-12-18
+Windows Directory:         C:\WINDOWS
+System Directory:          C:\WINDOWS\system32
+Boot Device:               \Device\HarddiskVolume1
+System Locale:             en-us;English (United States)
+Input Locale:              pl;Polish
+Time Zone:                 (UTC+01:00) Sarajevo, Skopje, Warsaw, Zagreb
+Total Physical Memory:     8ÿ097 MB
+Available Physical Memory: 4ÿ028 MB
+Virtual Memory: Max Size:  9ÿ377 MB
+Virtual Memory: Available: 5ÿ201 MB
+Virtual Memory: In Use:    4ÿ176 MB
+Page File Location(s):     C:\pagefile.sys
+Domain:                    ent.off.lsy.pl
+Logon Server:              \\GDNVNT03
+Hotfix(s):                 127 Hotfix(s) Installed.
+                           [01]: KB3004908
+                           [02]: KB2899189_Microsoft-Windows-CameraCodec-Package
+                           [03]: KB2894852
+                           [04]: KB2894856
+                           [05]: KB2919355
+                           [06]: KB2919442
+                           [07]: KB2920189
+                           [08]: KB2934520
+                           [09]: KB2937220
+                           [10]: KB2938772
+                           [11]: KB2939471
+                           [12]: KB2949621
+                           [13]: KB2954879
+                           [14]: KB2961072
+                           [15]: KB2961908
+                           [16]: KB2962806
+                           [17]: KB2966826
+                           [18]: KB2966828
+                           [19]: KB2967917
+                           [20]: KB2968296
+                           [21]: KB2972103
+                           [22]: KB2972213
+                           [23]: KB2973114
+                           [24]: KB2973351
+                           [25]: KB2975061
+                           [26]: KB2976627
+                           [27]: KB2977765
+                           [28]: KB2978041
+                           [29]: KB2978122
+                           [30]: KB2978126
+                           [31]: KB2979573
+                           [32]: KB2979576
+                           [33]: KB2982998
+                           [34]: KB2989930
+                           [35]: KB2990967
+                           [36]: KB2994290
+                           [37]: KB3000483
+                           [38]: KB3000850
+                           [39]: KB3003057
+                           [40]: KB3003667
+                           [41]: KB3003727
+                           [42]: KB3004361
+                           [43]: KB3004365
+                           [44]: KB3004394
+                           [45]: KB3004545
+                           [46]: KB3006137
+                           [47]: KB3012199
+                           [48]: KB3012235
+                           [49]: KB3012702
+                           [50]: KB3013172
+                           [51]: KB3013410
+                           [52]: KB3013769
+                           [53]: KB3013816
+                           [54]: KB3014442
+                           [55]: KB3016074
+                           [56]: KB3018133
+                           [57]: KB3019215
+                           [58]: KB3019978
+                           [59]: KB3020338
+                           [60]: KB3020393
+                           [61]: KB3021128
+                           [62]: KB3021910
+                           [63]: KB3021952
+                           [64]: KB3022777
+                           [65]: KB3022796
+                           [66]: KB3023219
+                           [67]: KB3023222
+                           [68]: KB3023266
+                           [69]: KB3024751
+                           [70]: KB3024755
+                           [71]: KB3025417
+                           [72]: KB3027209
+                           [73]: KB3029606
+                           [74]: KB3029803
+                           [75]: KB3030377
+                           [76]: KB3030947
+                           [77]: KB3031044
+                           [78]: KB3032359
+                           [79]: KB3032663
+                           [80]: KB3033889
+                           [81]: KB3034348
+                           [82]: KB3035017
+                           [83]: KB3035126
+                           [84]: KB3035132
+                           [85]: KB3035487
+                           [86]: KB3035527
+                           [87]: KB3036228
+                           [88]: KB3036562
+                           [89]: KB3036612
+                           [90]: KB3037576
+                           [91]: KB3037579
+                           [92]: KB3038314
+                           [93]: KB3039066
+                           [94]: KB3042085
+                           [95]: KB3042553
+                           [96]: KB3044374
+                           [97]: KB3045685
+                           [98]: KB3045755
+                           [99]: KB3045999
+                           [100]: KB3046002
+                           [101]: KB3046017
+                           [102]: KB3046359
+                           [103]: KB3049563
+                           [104]: KB3055642
+                           [105]: KB3058515
+                           [106]: KB3059317
+                           [107]: KB3060716
+                           [108]: KB3061468
+                           [109]: KB3061512
+                           [110]: KB3061518
+                           [111]: KB3062760
+                           [112]: KB3065822
+                           [113]: KB3067505
+                           [114]: KB3069392
+                           [115]: KB3071756
+                           [116]: KB3072307
+                           [117]: KB3072630
+                           [118]: KB3072633
+                           [119]: KB3075220
+                           [120]: KB3075853
+                           [121]: KB3076895
+                           [122]: KB3076949
+                           [123]: KB3078071
+                           [124]: KB3078601
+                           [125]: KB3087916
+                           [126]: KB3087985
+                           [127]: KB3089023
+Network Card(s):           7 NIC(s) Installed.
+                           [01]: Intel(R) Ethernet Connection I218-LM
+                                 Connection Name: Ethernet
+                                 Status:          Media disconnected
+                           [02]: Intel(R) Dual Band Wireless-AC 7260
+                                 Connection Name: Wi-Fi
+                                 DHCP Enabled:    Yes
+                                 DHCP Server:     1.1.1.1
+                                 IP address(es)
+                                 [01]: 10.232.44.155
+                                 [02]: fe80::7870:d8a5:b52a:454
+                           [03]: Bluetooth Device (Personal Area Network)
+                                 Connection Name: Bluetooth Network Connection
+                                 Status:          Media disconnected
+                           [04]: Cisco AnyConnect Secure Mobility Client Virtual Miniport Adapter for Windows x64
+                                 Connection Name: Ethernet 2
+                                 Status:          Hardware not present
+                           [05]: VirtualBox Host-Only Ethernet Adapter
+                                 Connection Name: VirtualBox Host-Only Network
+                                 DHCP Enabled:    No
+                                 IP address(es)
+                                 [01]: 192.168.56.1
+                                 [02]: fe80::5894:910d:a0ee:7b3c
+                           [06]: VMware Virtual Ethernet Adapter for VMnet1
+                                 Connection Name: VMware Network Adapter VMnet1
+                                 DHCP Enabled:    No
+                                 IP address(es)
+                                 [01]: 192.168.121.1
+                                 [02]: fe80::b0eb:65de:df03:206e
+                           [07]: VMware Virtual Ethernet Adapter for VMnet8
+                                 Connection Name: VMware Network Adapter VMnet8
+                                 DHCP Enabled:    No
+                                 IP address(es)
+                                 [01]: 192.168.3.1
+                                 [02]: fe80::ecfc:8dbf:6279:c3ac
+Hyper-V Requirements:      VM Monitor Mode Extensions: Yes
+                           Virtualization Enabled In Firmware: Yes
+                           Second Level Address Translation: Yes
+                           Data Execution Prevention Available: Yes
